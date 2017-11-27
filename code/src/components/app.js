@@ -50,23 +50,139 @@ class App extends React.Component {
         <div className="container-content">
 
           <div className="content">
-            <div className="content-image"><img src="/images/medium-image.png" alt="" className=""/></div>
-            <div className="content-text"></div>
+
+            <div className="content-image">
+                <img src="/images/medium-image-puff-1.jpeg" alt="" className="image-illustration"/>
+            </div>
+
+            <div className="content-text">
+
+              <div className="content-spec">
+                <h2>Lorem ipsum</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Vivamus fringilla mi dignissim ligula cursus varius. Etiam orci libero,
+                  ultricies vel tempor et, posuere ut dui.</p>
+              </div>
+
+              <div className="information">
+
+                  <div className="image-author">
+                    <img src="/images/writer-1.png" alt="" className="image-author2"/>
+                  </div>
+
+
+                  <div className="author"><p>Carl Moore</p></div>
+
+                  <div className="bookmark-container">
+                    <img src="/images/bookmark.png" alt="" className="bookmark"/>
+                  </div>
+
+              </div>
+
+            </div>
+
           </div>
 
           <div className="content">
-            <div className="content-image"></div>
-            <div className="content-text"></div>
+
+            <div className="content-image">
+                <img src="/images/medium-image-puff-2.png" alt="" className="image-illustration"/>
+            </div>
+
+            <div className="content-text">
+
+              <div className="content-spec">
+                <h2>Lorem ipsum</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Vivamus fringilla mi dignissim ligula cursus varius. Etiam orci libero,
+                  ultricies vel tempor et, posuere ut dui.</p>
+              </div>
+
+              <div className="information">
+
+                  <div className="image-author">
+                    <img src="/images/writer-1.png" alt="" className="image-author2"/>
+                  </div>
+
+
+                  <div className="author"><p>Carl Moore</p></div>
+
+                  <div className="bookmark-container">
+                    <img src="/images/bookmark.png" alt="" className="bookmark"/>
+                  </div>
+
+              </div>
+
+            </div>
+
           </div>
 
           <div className="content">
-            <div className="content-image"></div>
-            <div className="content-text"></div>
+
+            <div className="content-image">
+                <img src="/images/medium-image-puff-3.png" alt="" className="image-illustration"/>
+            </div>
+
+            <div className="content-text">
+
+              <div className="content-spec">
+                <h2>Lorem ipsum</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Vivamus fringilla mi dignissim ligula cursus varius. Etiam orci libero,
+                  ultricies vel tempor et, posuere ut dui.</p>
+              </div>
+
+              <div className="information">
+
+                  <div className="image-author">
+                    <img src="/images/writer-1.png" alt="" className="image-author2"/>
+                  </div>
+
+
+                  <div className="author"><p>Carl Moore</p></div>
+
+                  <div className="bookmark-container">
+                    <img src="/images/bookmark.png" alt="" className="bookmark"/>
+                  </div>
+
+              </div>
+
+            </div>
+
           </div>
 
           <div className="content">
-            <div className="content-image"></div>
-            <div className="content-text"></div>
+
+            <div className="content-image">
+                <img src="/images/medium-image-puff-4.jpeg" alt="" className="image-illustration"/>
+            </div>
+
+            <div className="content-text">
+
+              <div className="content-spec">
+                <h2>Lorem ipsum</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Vivamus fringilla mi dignissim ligula cursus varius. Etiam orci libero,
+                  ultricies vel tempor et, posuere ut dui.</p>
+              </div>
+
+              <div className="information">
+
+                  <div className="image-author">
+                    <img src="/images/writer-1.png" alt="" className="image-author2"/>
+                  </div>
+
+
+                  <div className="author"><p>Carl Moore</p></div>
+
+                  <div className="bookmark-container">
+                    <img src="/images/bookmark.png" alt="" className="bookmark"/>
+                  </div>
+
+              </div>
+
+            </div>
+
           </div>
 
         </div>

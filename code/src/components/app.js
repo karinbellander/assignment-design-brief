@@ -24,6 +24,7 @@ class App extends React.Component {
             </ul>
           </div>
 
+
           <div className="button-header">
             <a href="#" id="button-header">Get started</a>
           </div>
